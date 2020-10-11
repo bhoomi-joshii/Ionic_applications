@@ -1,0 +1,7 @@
+{
+  "name": "First-iconic-app",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
